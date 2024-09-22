@@ -1,7 +1,5 @@
-# Crunchy-Numbers-Project
+# Crunchy-Sequence-Project
 
-```markdown
-# Crunchy Sequence Project
 
 ## Overview
 
@@ -43,4 +41,3 @@ After generating the sequence, I demonstrated that each number is of the form \(
 ## Conclusion
 
 This project successfully generates the first 50 terms of the Crunchy sequence, classifies them as prime or composite, and shows that each term is of the form \(2^n3^m\).
-```
