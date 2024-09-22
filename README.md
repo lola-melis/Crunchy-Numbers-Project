@@ -1,4 +1,4 @@
-# Crunchy-Sequence-Project
+# Crunchy Sequence Project
 
 
 ## Overview
